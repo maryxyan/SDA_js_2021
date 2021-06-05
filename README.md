@@ -1,2 +1,2 @@
 # SDA_js_2021
-Team project, Javascript
+An open-source team portfolio project.
