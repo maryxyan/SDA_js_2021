@@ -1,0 +1,11 @@
+a {
+    color: white;
+    text-decoration: none;
+}
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+
+.navbar{
+    margin-top: 1rem;
+    background: black;
+}
