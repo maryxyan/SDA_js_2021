@@ -1,0 +1,2 @@
+
+$('.navbar').css('color','blue')
