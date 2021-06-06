@@ -6,7 +6,12 @@
 <head>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="stlyle.css">
+  <script src='./node_modules/jquery/dist/jquery.js'></script>
+  <script src='./node_modules/@popperjs/core/dist/umd/popper.min.js'></script>
+
+  <link rel='stylesheet' href='./node_modules/bootstrap/dist/css/bootstrap.min.css'>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  
 </head>
 <body>
 
@@ -33,7 +38,7 @@
 <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
 <div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top">
   <a href="#band" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">BAND</a>
-  <a href="#tour" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">TOUR</a>
+  <a href="#tour" class="w3-bar-item w3-button w3-padding-large" ~onclick="myFunction()">TOUR</a>
   <a href="#contact" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">CONTACT</a>
   <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">MERCH</a>
 </div>
