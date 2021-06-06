@@ -2,10 +2,15 @@ a {
     color: white;
     text-decoration: none;
 }
+
 body {font-family: "Lato", sans-serif;
 color:red;
-background-color: wheat;}
-.mySlides {display: none;}
+background-color: wheat;
+}
+
+
+.mySlides {display: none}
+
 
 .navbar{
     margin-top: 1rem;
