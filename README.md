@@ -7,8 +7,11 @@ Before live deploy.
 
 
 [] Project has a LICENSE file with an open source license
+
 [] Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+
 [] The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+
 [] The issue queue is up-to-date, with issues clearly organized and labeled
 
 
