@@ -20,7 +20,17 @@ GIT clone https://github.com/maryxyan/SDA_js_2021.git
 ```bash
  code .
 ```
-
+## MAKE YOUR OWN BRANCH, MAKE YOUR OWN BRANCH, MAKE YOUR OWN BRANCH
+Dont work on main branch unless you know what you're doing.
+Make your own branch and save changes on that: 
+- How to create a  branch
+```
+git branch branchNameHEre
+```
+- How to change to a different branch 
+```
+$ git checkout <branch>
+```
 
 
 ##  How to commit :
@@ -47,28 +57,28 @@ NOTE : You  are REQUIRED to add a comment in between the quotes;
 
 
 
-**Documentation**
+## Documentation
 
 Before live deploy.
 
 
-[] Project has a LICENSE file with an open source license
+- Project has a LICENSE file with an open source license
 
-[] Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+- Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-[] The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+- The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
 
-[] The issue queue is up-to-date, with issues clearly organized and labeled
-
-
-**Code**
+- The issue queue is up-to-date, with issues clearly organized and labeled
 
 
-[]Project uses consistent code conventions/Good Case Practices and some good design patterns like (**KISS**) and clear function/method/variable names
+## Code
 
-[]The code is clearly commented, documenting intentions and edge cases
 
-[]There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+- Project uses consistent code conventions/Good Case Practices and some good design patterns like (**KISS**) and clear function/method/variable names
+
+- The code is clearly commented, documenting intentions and edge cases
+
+- There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
 
 
 
