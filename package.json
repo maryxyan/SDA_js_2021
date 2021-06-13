@@ -4,6 +4,7 @@
   "description": "An open-source team portfolio project.",
   "main": "file.js",
   "dependencies": {
+    "@popperjs/core": "^2.9.2",
     "bootstrap": "^5.0.1",
     "jquery": "^3.6.0"
   },
