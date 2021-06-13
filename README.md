@@ -25,20 +25,24 @@ GIT clone https://github.com/maryxyan/SDA_js_2021.git
 
 ##  How to commit :
 
-1. ```bash
+1. You can check your saved changes 
+```bash
  Git status
-``` - you can check your saved changes 
-2.```bash
+``` 
+2. Confirm your changes.
+```bash
  Git add .
-``` - confirm your changes.
-3.```bash
+``` 
+3.  Commit your changes
+```bash
  Git commit -m"Comment"
 ```
 NOTE : You  are REQUIRED to add a comment in between the quotes;
 
-4.```bash
+4. Push and run for dear life aka hope you dont get too many conflicts
+```bash
  Git push
-``` - and run for dear life aka hope you dont get too many conflicts
+``` 
 
 
 
