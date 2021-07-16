@@ -21,6 +21,7 @@ GIT clone https://github.com/maryxyan/SDA_js_2021.git
  code .
 ```
 ## MAKE YOUR OWN BRANCH, MAKE YOUR OWN BRANCH, MAKE YOUR OWN BRANCH
+## MAKE YOUR OWN GOD DAMN BRANCH :D https://github.com/elsewhencode/project-guidelines#1-git 
 Dont work on main branch unless you know what you're doing.
 Make your own branch and save changes on that: 
 - How to create a  branch
